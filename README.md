@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @whoTryingToProgramming
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on JavaScript
+- 🌱 I’m currently learning Python, C++ and CSharp
 - 📫 How to reach me ...
 
 <!---
